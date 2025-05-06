@@ -19,6 +19,9 @@ This project analyzes electric vehicle (EV) charging station usage data to ident
  https://drive.google.com/drive/folders/1vP5Pj0_RyyiiSL2HnGXdPYgZXK69oCMD
 ├── visuals/ # Dashboard screenshots
 ├── forecasting_notebook.ipynb
+this are the Screenshots of Jupyter Notebook, wgwere i have use python language to create clean and proper data : 
+https://drive.google.com/drive/folders/1d_pWqu6SJqDfyiE4BP9gVqaMiO1jWpLW?usp=sharing
+
 ├── EV_Dashboard.pbix # Power BI report
 ├── project_report.pdf
 
